@@ -16,9 +16,7 @@ public class TestWebDriverManager {
 	WebDriverManager.edgedriver().setup();
 	WebDriver driver = new EdgeDriver();
 	driver.manage().window().maximize();
-	driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
-	driver.get("https://paytm.com/");
-	
+
 		
 	}
 
