@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-07T15:00:11Z" name="Surefire suite" finished-at="2026-02-07T15:00:14Z" duration-ms="3034">
+    <groups>
+    </groups>
+    <test started-at="2026-02-07T15:00:11Z" name="Surefire test" finished-at="2026-02-07T15:00:14Z" duration-ms="3034">
+      <class name="javaPackage.TestWebDriverManager">
+        <test-method signature="a()[pri:0, instance:javaPackage.TestWebDriverManager@77a57272]" started-at="2026-02-07T15:00:11Z" name="a" finished-at="2026-02-07T15:00:14Z" duration-ms="3017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- javaPackage.TestWebDriverManager -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
